@@ -1,9 +1,9 @@
 <h1>Welcome</h1>
 Hello and welcome to my first GitHub repository, a nostr icon library.
 <h1>History</h1>
-Several weeks ago I created a very lame looking purple ostrich and added it to my website over at https://sats.coffee as part of my header for social media links. A few days after publishing, <a href="https://snort.social/p/npub1fl7pr0azlpgk469u034lsgn46dvwguz9g339p03dpetp9cs5pq5qxzeknp" target="_blank">@SovrynMatt</a> posted a nice version of a purple ostrich which he had purchased. After seeing his version, it made mine look like a pudgy roadrunner. 
+Several weeks ago I created a very lame looking purple ostrich and added it to my website over at https://sats.coffee as part of my header for social media links. A few days after publishing,@SovrynMatt posted a nice version of a purple ostrich which he had purchased. After seeing his version, it made mine look like a pudgy roadrunner. 
 <br><br>
-However I wasn't 100% sold on Matt's version (no offense Matt!) because I didn't like the way the front foot was positioned in the air. I played around with a low-res gif hoping to export one of the layers, but ultimately I decided to create a new nostr icon from scratch.
+However I wasn't 100% sold on the new version (no offense Matt!) because I didn't like the way the front foot was positioned in the air. I played around with a low-res gif hoping to export one of the layers, but ultimately I decided to create a new nostr icon from scratch.
 <br><br>
 Recently many people have been asking the community for icons, so I exported my file into several versions and have uploaded them here. 
 <h1>Files</h1>
