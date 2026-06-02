@@ -11,7 +11,7 @@ There are individual .png, .svg, .ico and .gif files here along with a zip file 
 <h1>RGB Value</h1>
 As far as the purple color goes, I used RGB 169, 21, 255 and to help remember, you can type in 269 for the blue, knowing it will default to the max of 255.
 <h1>Value for Value</h1>
-<i>A gentle reminder,</i> if you find value in my icon pack, <a href="https://sats.coffee/our-beans" target="blank">please purchase</a> some fresh roasted, El Salvadorian, Ethiopian, or Javan-blend coffee beans from us and/or send some value back my way using <a href="lnurl1dp68gurn8ghj7cn5vdcxz7fwwdshguewvdhkven9v5hjuam9d3kz66mwdamkutmvde6hymrs9a6xjurnqwmgxn" target="blank">tips@b.sats.coffee</a>.
+<i>A gentle reminder,</i> if you find value in my icon pack, <a href="https://sats.coffee/our-beans" target="blank">please purchase</a> some fresh roasted, El Salvadorian, Ethiopian, or Javan-blend coffee beans from us and/or send some value back my way using tips@b.sats.coffee 
 <br><br>
 Enjoy!
 <br><br>
